@@ -1,5 +1,5 @@
 # i2clcd
-## Version: 2.0
+### Version: 2.0
 ![GitHub](https://img.shields.io/github/license/w0qs1/i2clcd)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/w0qs1/i2clcd)
 <br>
